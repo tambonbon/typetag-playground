@@ -1,0 +1,4 @@
+package typetag
+
+object RuntimeTypeInformationSpec {
+}
